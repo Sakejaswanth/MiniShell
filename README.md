@@ -1,4 +1,4 @@
-# C-Shell (`cshell`)
+# MINI Shell (`cshell`)
 
 ![C99](https://img.shields.io/badge/Language-C99-blue.svg)
 ![Platform](https://img.shields.io/badge/Platform-Windows%20%7C%20Linux%20%7C%20macOS-brightgreen.svg)
@@ -220,6 +220,3 @@ Example output:
 ```
 
 ---
-
-## License
-MIT License. Open-source educational and portfolio software.

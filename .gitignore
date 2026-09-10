@@ -1,0 +1,16 @@
+# Build outputs
+bin/
+build/
+*.obj
+*.o
+*.exe
+*.log
+
+# Editor files
+.vscode/
+.idea/
+*.swp
+*~
+
+# History
+.cshell_history
